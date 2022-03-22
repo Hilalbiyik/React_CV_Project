@@ -1,3 +1,6 @@
+# CV_Project
+<img src="https://user-images.githubusercontent.com/77548014/159591479-3458c16f-00a1-4ab8-a267-1191182d0b4c.png" width="450"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
