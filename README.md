@@ -1,5 +1,5 @@
 # CV_Project
-<img src="https://user-images.githubusercontent.com/77548014/159591479-3458c16f-00a1-4ab8-a267-1191182d0b4c.png" width="450"/>
+<img src="https://user-images.githubusercontent.com/77548014/159689626-68cde3f4-1c6e-44fe-9a8e-75c2a6475f9d.png" width="450"/>
 
 # Getting Started with Create React App
 
